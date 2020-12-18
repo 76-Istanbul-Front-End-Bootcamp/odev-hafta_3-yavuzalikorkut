@@ -1,0 +1,20 @@
+tr:hover {
+    background-color: green;
+    color: white;
+}
+
+button {
+    cursor: pointer;
+    font-size: 16px;
+    padding: 5px 10px;
+}
+
+div {
+    width: 400px;
+    height: 400px;
+}
+
+div img {
+    width: 100%;
+    height: auto;
+}
